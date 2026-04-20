@@ -129,11 +129,11 @@ export function ContactSection() {
           <div className="space-y-6 mt-8">
             <div className="flex items-center gap-4">
               <Phone className="text-green-700" />
-              <span>+91 98765 43210</span>
+              <span>+91 8628990980</span>
             </div>
             <div className="flex items-center gap-4">
               <Mail className="text-green-700" />
-              <span>info@himachalhorizons.com</span>
+              <span>anujt2868@gmail.com</span>
             </div>
             <div className="flex items-center gap-4">
               <MapPin className="text-green-700" />
@@ -142,7 +142,7 @@ export function ContactSection() {
             <div className="flex items-center gap-4">
               <MessageCircle className="text-green-700" />
               <a 
-                href="https://wa.me/919876543210"
+                href="https://wa.me/918628990980"
                 target="_blank"
                 rel="noreferrer"
                 className="text-green-700 hover:underline"
